@@ -9,9 +9,9 @@ Ever wondered the name of the pasta shape you have in your pantry? The Pasta Ide
 
 Pasta Identifier was made through transfer learning with the training of a custom dataset of pasta shapes. This program works with the Image Classification part of the Hello AI World Tutorial here: https://github.com/dusty-nv/jetson-inference
 
-## Files In this Repository
+## Files for This Project
 
-Included in this repository are all of the files necessary to run this program as well as the raw dataset so you can train more pasta shapes!
+The files listed below are all of the files necessary to run this program as well as the raw dataset so you can train more pasta shapes! The files were too large to be uploaded here, so download links are provided below in Instructions.
 - pastaidentifierdata: the images used to train pasta shapes
 - pastaidentifiermodels: the model of the Pasta Identifier
 
