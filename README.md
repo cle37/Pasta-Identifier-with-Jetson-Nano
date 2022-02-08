@@ -29,7 +29,8 @@ docker/run.sh
 ```sh
 cd python/training/classification/
 ```
-- Download this repository
+- Download pastaidentifiermodel here: https://drive.google.com/drive/folders/1kFCeqmBy3vUzQYYeG3SWWh9y4jo8Mr4Y?usp=sharing
+- Download pastaidentifierdata here: https://drive.google.com/drive/folders/1tNhA5pvDsDlhR_K9RdP91C0T1lnqXizO?usp=sharing
 - Move pastaidentifiermodel into the folder jetson-inference/python/training/classification/models
 - Move pastaidentifierdata into the folder jetson-inference/python/training/classification/data
 
